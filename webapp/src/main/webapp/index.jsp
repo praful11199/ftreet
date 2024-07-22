@@ -4,13 +4,13 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>Google Form</h2>
 
 <form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Gunwant"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="waghaye"><br><br>
+  <label for="fname">Student name:</label><br>
+  <input type="text" id="fname" name="fname" value="    "><br>
+  <label for="lname">Surname :</label><br>
+  <input type="text" id="lname" name="lname" value="    "><br><br>
   <input type="submit" value="Submit">
 </form>
 
